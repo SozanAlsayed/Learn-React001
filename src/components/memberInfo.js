@@ -1,0 +1,55 @@
+const teamData = [
+  {
+    id: 1,
+    img: '/images/1.jpg',
+    name: 'Natalie Carter',
+    position: 'Software Engineer',
+    phone: '+1 555-1234',
+    email: 'natalie@example.com',
+  },
+  {
+    id: 2,
+    img: '/images/2.jpeg',
+    name: 'Christopher Davis',
+    position: 'Project Manager',
+    phone: '+1 555-5678',
+    email: 'christopher@example.com',
+  },
+  {
+    id: 3,
+    img: '/images/3.jpeg',
+    name: 'Sophie White',
+    position: 'Graphic Designer',
+    phone: '+1 555-9876',
+    email: 'sophie@example.com',
+    website: 'sophiewhite.design',
+  },
+  {
+    id: 4,
+    img: '/images/4.jpg',
+    name: 'Elijah Taylor',
+    position: 'Marketing Specialist',
+    phone: '+1 555-4321',
+    email: 'elijah@example.com',
+  },
+  {
+    id: 5,
+    img: '/images/5.jpeg',
+    name: 'Olivia Miller',
+    position: 'CEO',
+    phone: '+1 555-8765',
+    email: 'olivia@example.com',
+    website: 'oliviamiller.com',
+  },
+  {
+    id: 6,
+    img: '/images/6.jpg',
+    name: 'James Foster',
+    position: 'Frontend Developer',
+    phone: '+1 555-3456',
+    email: 'james@example.com',
+    website: 'jamesfoster.dev',
+  },
+];
+
+export default teamData;
